@@ -1,0 +1,151 @@
+.desktop-8 {
+  align-items: flex-start;
+  background-color: var(--tuatara);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 1024px;
+  padding: 55px 70px;
+  width: 1440px;
+}
+
+.flex-row-6 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 19px;
+  height: 115px;
+  margin-right: 291.0px;
+  margin-top: 45px;
+  min-width: 481px;
+}
+
+.ellipse-3-3 {
+  background-color: var(--web-orange);
+  border-radius: 16.5px;
+  height: 33px;
+  margin-top: 2.0px;
+  width: 33px;
+}
+
+.place-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 115px;
+  min-width: 429px;
+}
+
+.overlap-group1-3 {
+  align-items: flex-start;
+  border: 10px solid;
+  border-color: var(--heat-wave);
+  border-radius: 20px;
+  display: flex;
+  height: 719px;
+  min-width: 1247px;
+  padding: 22px 32px;
+}
+
+.flex-col-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 6px;
+  min-height: 590px;
+  width: 173px;
+}
+
+.overlap-group2-3 {
+  height: 56px;
+  position: relative;
+  width: 173px;
+}
+
+.rectangle-2-3 {
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 173px;
+}
+
+.place-6 {
+  cursor: pointer;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.place-6:hover {
+  transform: translate(5px, 0);
+}
+
+.portfolio-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 33px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.flex-col-item-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 34px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.gallery-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 34px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.ellipse-1-3 {
+  align-self: center;
+  height: 120px;
+  margin-right: 7.0px;
+  margin-top: 59px;
+  width: 120px;
+}
+
+.success-i-will-get {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 101px;
+  min-height: 43px;
+  min-width: 679px;
+}
+
+.overlap-group-2 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-bottom: 7px;
+  margin-left: 34px;
+  min-width: 173px;
+  padding: 0 29px;
+}
+
+.submit-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  min-width: 114px;
+}
+

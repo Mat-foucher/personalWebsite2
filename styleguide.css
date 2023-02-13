@@ -1,0 +1,120 @@
+:root { 
+  --black: #000000;
+  --heat-wave: #ff7a00;
+  --tuatara: #363636;
+  --web-orange: #ffa700;
+  --white: #ffffff;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 36px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 96px;
+ 
+  --font-family-syne: "Syne", Helvetica;
+}
+.syne-normal-web-orange-40px {
+  color: var(--web-orange);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.syne-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.syne-normal-web-orange-96px {
+  color: var(--web-orange);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.syne-semi-bold-web-orange-36px {
+  color: var(--web-orange);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.syne-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-normal-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.syne-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-syne);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.syne-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}

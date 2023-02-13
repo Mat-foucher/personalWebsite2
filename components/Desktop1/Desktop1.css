@@ -1,0 +1,552 @@
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--tuatara);
+  border: 1px none;
+  display: flex;
+  gap: 68px;
+  height: 1657px;
+  padding: 60px 45px;
+  width: 1440px;
+}
+
+.overlap-group2-4 {
+  align-items: center;
+  border: 10px solid;
+  border-color: var(--heat-wave);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 41px;
+  min-height: 1455px;
+  padding: 19px 14px;
+  width: 228px;
+}
+
+.ellipse-2 {
+  height: 120px;
+  margin-right: 20.0px;
+  width: 120px;
+}
+
+.place-10 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 28px;
+  min-height: 55px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.place-10:hover {
+  transform: translate(5px, 0);
+}
+
+.overlap-group2-item {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 34px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.ellipse-1-7 {
+  height: 120px;
+  margin-right: 18.0px;
+  margin-top: 59px;
+  width: 120px;
+}
+
+.experience {
+  align-self: flex-start;
+  display: flex;
+  margin-left: 8px;
+  margin-top: 12px;
+  width: 167px;
+}
+
+.accomplishments {
+  height: 24px;
+  letter-spacing: 1.60px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 165px;
+}
+
+.cu-boulder-college-o {
+  letter-spacing: 1.60px;
+  line-height: normal;
+  margin-right: 32.0px;
+  margin-top: 11px;
+  width: 168px;
+}
+
+.overlap-group2-item-1 {
+  letter-spacing: 1.60px;
+  line-height: normal;
+  margin-right: 32.0px;
+  margin-top: 12px;
+  width: 168px;
+}
+
+.minneapolis-loppet-t {
+  letter-spacing: 1.60px;
+  line-height: normal;
+  margin-right: 32.0px;
+  margin-top: 4px;
+  width: 168px;
+}
+
+.flex-col-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 1497px;
+  width: 1029px;
+}
+
+.overlap-group14 {
+  height: 127px;
+  margin-left: 20px;
+  position: relative;
+  width: 935px;
+}
+
+.title-4 {
+  color: var(--white);
+  font-family: var(--font-family-syne);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.uiux-full-stack-de {
+  left: 60px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 103px;
+  width: 875px;
+}
+
+.overlap-group11 {
+  align-items: flex-start;
+  border: 10px solid;
+  border-color: var(--heat-wave);
+  border-radius: 20px;
+  display: flex;
+  height: 59px;
+  margin-top: 50px;
+  min-width: 895px;
+  padding: 4.3px 12.2px;
+}
+
+.skills-in-uiux-and-beyond {
+  height: 34px;
+  width: 485px;
+}
+
+.overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 24px;
+  margin-top: 13px;
+  min-width: 756px;
+}
+
+.overlap-group4-1 {
+  align-items: flex-end;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  min-width: 230px;
+  padding: 19px 43px;
+}
+
+.figma {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  min-width: 140px;
+}
+
+.overlap-group15 {
+  align-items: flex-end;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  margin-left: 34px;
+  min-width: 230px;
+  padding: 19px 43px;
+}
+
+.react {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  min-width: 142px;
+}
+
+.overlap-group6-1 {
+  align-items: flex-end;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  margin-left: 32px;
+  min-width: 230px;
+  padding: 20px 54px;
+}
+
+.html {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  min-width: 122px;
+}
+
+.overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 24px;
+  margin-top: 21px;
+  min-width: 756px;
+}
+
+.overlap-group1-7 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  min-width: 230px;
+  padding: 20px 74px;
+}
+
+.css,
+.python,
+.adobe,
+.c,
+.jira {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+}
+
+.overlap-group13 {
+  align-items: center;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  margin-left: 34px;
+  min-width: 230px;
+  padding: 0 16px;
+}
+
+.wireframes {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+  min-width: 196px;
+}
+
+.overlap-group1-8 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  margin-left: 32px;
+  min-width: 230px;
+  padding: 20px 25px;
+}
+
+.overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  min-width: 230px;
+  padding: 20px 38px;
+}
+
+.overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  margin-left: 34px;
+  min-width: 230px;
+  padding: 22px 15px;
+}
+
+.final-cut,
+.github {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+}
+
+.overlap-group16 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  margin-left: 32px;
+  min-width: 230px;
+  padding: 23px 42px;
+}
+
+.overlap-group3-2 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  margin-left: 34px;
+  min-width: 230px;
+  padding: 20px 67px;
+}
+
+.overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 85px;
+  margin-left: 32px;
+  min-width: 230px;
+  padding: 27px 29px;
+}
+
+.javascript {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+}
+
+.overlap-group7 {
+  align-items: flex-start;
+  border: 10px solid;
+  border-color: var(--heat-wave);
+  border-radius: 20px;
+  display: flex;
+  height: 59px;
+  margin-top: 38px;
+  min-width: 895px;
+  padding: 4.5px 12.8px;
+}
+
+.education-and-certificates {
+  height: 26px;
+  width: 498px;
+}
+
+.experience-1 {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 15px;
+  width: 718px;
+}
+
+.x2017-2021-univers {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 716px;
+}
+
+.experience-2 {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 9px;
+  width: 667px;
+}
+
+.x2022-2023-general {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 665px;
+}
+
+.overlap-group5-2 {
+  align-items: flex-start;
+  border: 10px solid;
+  border-color: var(--heat-wave);
+  border-radius: 20px;
+  display: flex;
+  height: 59px;
+  margin-top: 52px;
+  min-width: 895px;
+  padding: 5.5px 12.8px;
+}
+
+.relevant-work-experience {
+  height: 33px;
+  width: 491px;
+}
+
+.experience-3 {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  height: 113px;
+  margin-right: 7.0px;
+  margin-top: 4px;
+  width: 982px;
+}
+
+.x2018-evidence-analy {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 568px;
+}
+
+.oversaw-the-due-proc {
+  height: 48px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  margin-top: 13px;
+  width: 976px;
+}
+
+.documented-and-archi {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 4px;
+  width: 772px;
+}
+
+.experience-4 {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 165px;
+  margin-top: 13px;
+  width: 1008px;
+}
+
+.x2018-2021-teachin {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 759px;
+}
+
+.assisted-and-oversaw {
+  height: 48px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  margin-top: 13px;
+  width: 969px;
+}
+
+.offered-private-tuto {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 4px;
+  width: 960px;
+}
+
+.designed-and-facilit {
+  height: 48px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 4px;
+  width: 999px;
+}
+
+.experience-5 {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 85px;
+  margin-right: 2.0px;
+  margin-top: 14px;
+  width: 979px;
+}
+
+.x2021-2022-full-st {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 780px;
+}
+
+.designed-and-impleme {
+  height: 48px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  width: 975px;
+}
+
+.experience-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 159px;
+  margin-left: 24px;
+  margin-top: 12px;
+  width: 933px;
+}
+
+.x2022-2023-freelance {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 553px;
+}
+
+.worked-with-a-graphi {
+  height: 48px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  width: 894px;
+}
+
+.managed-a-shopify-st {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  width: 768px;
+}
+
+.created-a-fully-cust {
+  height: 24px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  width: 925px;
+}
+

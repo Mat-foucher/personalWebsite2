@@ -1,0 +1,160 @@
+.desktop-5 {
+  align-items: flex-start;
+  background-color: var(--tuatara);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 1359px;
+  padding: 100px 70px;
+  width: 1440px;
+}
+
+.flex-row-8 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 19px;
+  height: 115px;
+  margin-right: 254.0px;
+  min-width: 518px;
+}
+
+.ellipse-3-5 {
+  background-color: var(--web-orange);
+  border-radius: 16.5px;
+  height: 33px;
+  margin-top: 2.0px;
+  width: 33px;
+}
+
+.title-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 115px;
+  min-width: 466px;
+}
+
+.flex-row-9 {
+  align-items: flex-start;
+  border: 10px solid;
+  border-color: var(--heat-wave);
+  border-radius: 20px;
+  display: flex;
+  gap: 76px;
+  height: 1003px;
+  min-width: 1247px;
+  padding: 28px 32px;
+}
+
+.flex-col-8 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 590px;
+  width: 173px;
+}
+
+.place-8 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 55px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.place-8:hover {
+  transform: translate(5px, 0);
+}
+
+.portfolio-5 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 34px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.socials-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 34px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.overlap-group1-5 {
+  height: 56px;
+  margin-top: 34px;
+  position: relative;
+  width: 173px;
+}
+
+.rectangle-3-1 {
+  background-color: var(--web-orange);
+  border-radius: 10px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 173px;
+}
+
+.artwork-1 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 162px;
+}
+
+.gallery-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 33px;
+  min-height: 55px;
+  width: 162px;
+}
+
+.ellipse-1-5 {
+  align-self: center;
+  height: 120px;
+  margin-right: 7.0px;
+  margin-top: 59px;
+  width: 120px;
+}
+
+.flex-col-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 901px;
+  width: 804px;
+}
+
+.album-artwork {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 55px;
+  width: 700px;
+}
+
+.rectangle-25 {
+  height: 800px;
+  margin-left: 4px;
+  margin-top: 18px;
+  object-fit: cover;
+  width: 800px;
+}
+
+.single-artwork-for {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 4px;
+  width: 792px;
+}
+
