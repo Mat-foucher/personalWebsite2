@@ -27,6 +27,10 @@
   opacity: 1;
 }
 
+input:focus {
+  outline: none;
+}
+
 .listeners-active,
 .listeners-active * {
   pointer-events: auto;

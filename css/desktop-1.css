@@ -1,6 +1,6 @@
-/* screen - desktop-6 */
+/* screen - desktop-9 */
 
-.desktop-6 {
+.desktop-9 {
   background-color: #363636;
   border: 1px none;
   margin: 0px;
@@ -14,13 +14,13 @@
   width: 100%;
 }
 
-.desktop-6 .rectangle-1-C61RwL {
+.desktop-9 .rectangle-1-C61RwL {
   --z-index: 0;
   background-color: transparent;
   border: 10px solid;
   border-color: #ff7a00;
   border-radius: 20px;
-  height: 673px;
+  height: 719px;
   left: 70px;
   mix-blend-mode: normal;
   opacity: 1;
@@ -29,24 +29,11 @@
   width: 1247px;
 }
 
-.desktop-6 .rectangle-3-C61RwL {
+.desktop-9 .portfolio-C61RwL {
   --z-index: 1;
-  background-color: #ffa700;
-  border-radius: 10px;
-  cursor: pointer;
-  height: 55px;
-  left: 107px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 635px;
-  width: 173px;
-}
-
-.desktop-6 .gallery-C61RwL {
-  --z-index: 2;
   background-color: transparent;
-  color: #000000;
+  color: #ffa700;
+  cursor: pointer;
   font-family: 'Syne', Helvetica;
   font-size: 40px;
   font-style: normal;
@@ -59,11 +46,32 @@
   opacity: 1;
   position: absolute;
   text-align: left;
-  top: 635px;
+  top: 368px;
   width: 162px;
 }
 
-.desktop-6 .artwork-C61RwL {
+.desktop-9 .socials-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 457px;
+  width: 162px;
+}
+
+.desktop-9 .artwork-C61RwL {
   --z-index: 3;
   background-color: transparent;
   color: #ffa700;
@@ -84,8 +92,211 @@
   width: 162px;
 }
 
-.desktop-6 .socials-C61RwL {
+.desktop-9 .gallery-C61RwL {
   --z-index: 4;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 635px;
+  width: 162px;
+}
+
+.desktop-9 .rectangle-2-C61RwL {
+  --z-index: 5;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 102px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 279px;
+  width: 173px;
+}
+
+.desktop-9 .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.desktop-9 .place-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
+.desktop-9 .place-VMr6Om {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.desktop-9 .ellipse-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 120px;
+  left: 125px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 120px;
+}
+
+.desktop-9 .error-your-email-has-not-been-sent-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 283px;
+  width: auto;
+}
+
+.desktop-9 .submit-button-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 55px;
+  left: 1089px;
+  opacity: 1;
+  position: absolute;
+  top: 885px;
+  width: 175px;
+}
+
+.desktop-9 .rectangle-20-1RSKJ8 {
+  --z-index: 0;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 173px;
+}
+
+.desktop-9 .submit-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Syne', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.desktop-9 .ellipse-3-C61RwL {
+  --z-index: 11;
+  background-color: #ffa700;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 334px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 142px;
+  width: 33px;
+}
+/* screen - desktop-3 */
+
+.desktop-3 {
+  background-color: #363636;
+  border: 1px none;
+  margin: 0px;
+  min-height: 3477px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-3 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  border: 10px solid;
+  border-color: #ff7a00;
+  border-radius: 20px;
+  height: 3144px;
+  left: 70px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 250px;
+  width: 1247px;
+}
+
+.desktop-3 .socials-C61RwL {
+  --z-index: 1;
   background-color: transparent;
   color: #ffa700;
   cursor: pointer;
@@ -105,7 +316,690 @@
   width: 162px;
 }
 
-.desktop-6 .portfolio-C61RwL {
+.desktop-3 .artwork-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 162px;
+}
+
+.desktop-3 .gallery-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 635px;
+  width: 162px;
+}
+
+.desktop-3 .rectangle-2-C61RwL {
+  --z-index: 4;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 102px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 368px;
+  width: 173px;
+}
+
+.desktop-3 .portfolio-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 162px;
+}
+
+.desktop-3 .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.desktop-3 .place-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
+.desktop-3 .general-assembly-uiux-boot-camp-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 334px;
+  width: 700px;
+}
+
+.desktop-3 .freelance-work-harbor-website-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1157px;
+  width: 700px;
+}
+
+.desktop-3 .see-for-yourself-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 407px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2984px;
+  width: 498px;
+}
+
+.desktop-3 .wwwharborband-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 3047px;
+  width: 466px;
+}
+
+.desktop-3 .portfolio-VMr6Om {
+  --z-index: 11;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.desktop-3 .ellipse-1-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 120px;
+  left: 125px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 120px;
+}
+
+.desktop-3 .rectangle-21-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/rectangle-21.png);
+  background-size: 100% 100%;
+  height: 700px;
+  left: 553px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 423px;
+  width: 700px;
+}
+
+.desktop-3 .rectangle-22-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/rectangle-22.png);
+  background-size: 100% 100%;
+  height: 896px;
+  left: 839px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1231px;
+  width: 414px;
+}
+
+.desktop-3 .rectangle-23-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/rectangle-23.png);
+  background-size: 100% 100%;
+  height: 896px;
+  left: 404px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1434px;
+  width: 414px;
+}
+
+.desktop-3 .rectangle-24-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/rectangle-24.png);
+  background-size: 100% 100%;
+  height: 896px;
+  left: 839px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2206px;
+  width: 414px;
+}
+
+.desktop-3 .ellipse-3-C61RwL {
+  --z-index: 17;
+  background-color: #ffa700;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 334px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 142px;
+  width: 33px;
+}
+
+.desktop-3 .first-figma-design-f-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 423px;
+  width: 150px;
+}
+
+.desktop-3 .first-mobile-friendl-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 384px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1231px;
+  width: 455px;
+}
+
+.desktop-3 .shopify-storefront-g-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2494px;
+  width: 399px;
+}
+
+.desktop-3 .all-merchandise-spre-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 407px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2574px;
+  width: 399px;
+}
+
+.desktop-3 .custom-ai-generated-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 407px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2630px;
+  width: 399px;
+}
+
+.desktop-3 .logo-wheel-at-the-bo-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 410px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2414px;
+  width: 399px;
+}
+
+.desktop-3 .x1-top-of-homepage-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 839px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2135px;
+  width: 455px;
+}
+
+.desktop-3 .number-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 818px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1231px;
+  width: 10px;
+}
+
+.desktop-3 .number-VMr6Om {
+  --z-index: 26;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 839px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2177px;
+  width: 10px;
+}
+
+.desktop-3 .number-mzXdH9 {
+  --z-index: 27;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 375px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1434px;
+  width: 10px;
+}
+
+.desktop-3 .x2-bottom-of-homepage-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 407px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2338px;
+  width: 455px;
+}
+
+.desktop-3 .x3-shopify-storefront-C61RwL {
+  --z-index: 29;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 839px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 3102px;
+  width: 455px;
+}
+
+.desktop-3 .features-graphics-ma-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 384px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1263px;
+  width: 393px;
+}
+
+.desktop-3 .contains-embedded-li-C61RwL {
+  --z-index: 31;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 384px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1343px;
+  width: 393px;
+}
+/* screen - desktop-4 */
+
+.desktop-4 {
+  background-color: #363636;
+  border: 1px none;
+  margin: 0px;
+  min-height: 1303px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-4 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  border: 10px solid;
+  border-color: #ff7a00;
+  border-radius: 20px;
+  height: 979px;
+  left: 70px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 250px;
+  width: 1247px;
+}
+
+.desktop-4 .artwork-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 162px;
+}
+
+.desktop-4 .gallery-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 635px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.desktop-4 .gallery-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
+.desktop-4 .rectangle-3-C61RwL {
+  --z-index: 3;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 102px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 457px;
+  width: 173px;
+}
+
+.desktop-4 .socials-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 457px;
+  width: 162px;
+}
+
+.desktop-4 .portfolio-C61RwL {
   --z-index: 5;
   background-color: transparent;
   color: #ffa700;
@@ -126,7 +1020,7 @@
   width: 162px;
 }
 
-.desktop-6 .place-C61RwL {
+.desktop-4 .place-C61RwL {
   --z-index: 6;
   background-color: transparent;
   color: #ffa700;
@@ -147,7 +1041,7 @@
   width: 162px;
 }
 
-.desktop-6 .gallery-VMr6Om {
+.desktop-4 .socials-VMr6Om {
   --z-index: 7;
   background-color: transparent;
   color: #ffa700;
@@ -167,7 +1061,7 @@
   width: auto;
 }
 
-.desktop-6 .ellipse-1-C61RwL {
+.desktop-4 .ellipse-1-C61RwL {
   --z-index: 8;
   background-color: transparent;
   background-image: url(../img/ellipse-1@2x.png);
@@ -182,7 +1076,7 @@
   width: 120px;
 }
 
-.desktop-6 .ellipse-3-C61RwL {
+.desktop-4 .ellipse-3-C61RwL {
   --z-index: 9;
   background-color: #ffa700;
   border-radius: 16.5px;
@@ -195,7 +1089,7 @@
   width: 33px;
 }
 
-.desktop-6 .wip-please-come-bac-C61RwL {
+.desktop-4 .wip-please-come-bac-C61RwL {
   --z-index: 10;
   background-color: transparent;
   color: #ffffff;
@@ -213,6 +1107,263 @@
   text-align: left;
   top: 279px;
   width: 700px;
+}
+/* screen - desktop-5 */
+
+.desktop-5 {
+  background-color: #363636;
+  border: 1px none;
+  margin: 0px;
+  min-height: 1359px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-5 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  border: 10px solid;
+  border-color: #ff7a00;
+  border-radius: 20px;
+  height: 1003px;
+  left: 70px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 250px;
+  width: 1247px;
+}
+
+.desktop-5 .gallery-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 635px;
+  width: 162px;
+}
+
+.desktop-5 .rectangle-3-C61RwL {
+  --z-index: 2;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 102px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 546px;
+  width: 173px;
+}
+
+.desktop-5 .artwork-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 162px;
+}
+
+.desktop-5 .socials-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 457px;
+  width: 162px;
+}
+
+.desktop-5 .portfolio-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 162px;
+}
+
+.desktop-5 .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.desktop-5 .place-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
+.desktop-5 .artwork-VMr6Om {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.desktop-5 .ellipse-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 120px;
+  left: 125px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 120px;
+}
+
+.desktop-5 .ellipse-3-C61RwL {
+  --z-index: 9;
+  background-color: #ffa700;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 334px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 142px;
+  width: 33px;
+}
+
+.desktop-5 .album-artwork-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 351px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  width: 700px;
+}
+
+.desktop-5 .rectangle-25-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/rectangle-25.png);
+  background-size: 100% 100%;
+  height: 800px;
+  left: 355px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 351px;
+  width: 800px;
+}
+
+.desktop-5 .single-artwork-for-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1156px;
+  width: 792px;
 }
 /* screen - desktop-1 */
 
@@ -1449,1088 +2600,6 @@
   top: 1462px;
   width: 168px;
 }
-/* screen - desktop-5 */
-
-.desktop-5 {
-  background-color: #363636;
-  border: 1px none;
-  margin: 0px;
-  min-height: 1359px;
-  min-width: 1440px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
-  width: 100%;
-}
-
-.desktop-5 .rectangle-1-C61RwL {
-  --z-index: 0;
-  background-color: transparent;
-  border: 10px solid;
-  border-color: #ff7a00;
-  border-radius: 20px;
-  height: 1003px;
-  left: 70px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 250px;
-  width: 1247px;
-}
-
-.desktop-5 .gallery-C61RwL {
-  --z-index: 1;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 635px;
-  width: 162px;
-}
-
-.desktop-5 .rectangle-3-C61RwL {
-  --z-index: 2;
-  background-color: #ffa700;
-  border-radius: 10px;
-  height: 55px;
-  left: 102px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 546px;
-  width: 173px;
-}
-
-.desktop-5 .artwork-C61RwL {
-  --z-index: 3;
-  background-color: transparent;
-  color: #000000;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 546px;
-  width: 162px;
-}
-
-.desktop-5 .socials-C61RwL {
-  --z-index: 4;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 457px;
-  width: 162px;
-}
-
-.desktop-5 .portfolio-C61RwL {
-  --z-index: 5;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 368px;
-  width: 162px;
-}
-
-.desktop-5 .place-C61RwL {
-  --z-index: 6;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 279px;
-  width: 162px;
-}
-
-.desktop-5 .artwork-VMr6Om {
-  --z-index: 7;
-  background-color: transparent;
-  color: #ffa700;
-  font-family: 'Syne', Helvetica;
-  font-size: 96px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 386px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 101px;
-  width: auto;
-}
-
-.desktop-5 .ellipse-1-C61RwL {
-  --z-index: 8;
-  background-color: transparent;
-  background-image: url(../img/ellipse-1@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 120px;
-  left: 125px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 748px;
-  width: 120px;
-}
-
-.desktop-5 .ellipse-3-C61RwL {
-  --z-index: 9;
-  background-color: #ffa700;
-  border-radius: 16.5px;
-  height: 33px;
-  left: 334px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 142px;
-  width: 33px;
-}
-
-.desktop-5 .album-artwork-C61RwL {
-  --z-index: 10;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 351px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 279px;
-  width: 700px;
-}
-
-.desktop-5 .rectangle-25-C61RwL {
-  --z-index: 11;
-  background-color: transparent;
-  background-image: url(../img/rectangle-25.png);
-  background-size: 100% 100%;
-  height: 800px;
-  left: 355px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  opacity: 1;
-  position: absolute;
-  top: 351px;
-  width: 800px;
-}
-
-.desktop-5 .single-artwork-for-C61RwL {
-  --z-index: 12;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 355px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1156px;
-  width: 792px;
-}
-/* screen - desktop-4 */
-
-.desktop-4 {
-  background-color: #363636;
-  border: 1px none;
-  margin: 0px;
-  min-height: 1303px;
-  min-width: 1440px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
-  width: 100%;
-}
-
-.desktop-4 .rectangle-1-C61RwL {
-  --z-index: 0;
-  background-color: transparent;
-  border: 10px solid;
-  border-color: #ff7a00;
-  border-radius: 20px;
-  height: 979px;
-  left: 70px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 250px;
-  width: 1247px;
-}
-
-.desktop-4 .artwork-C61RwL {
-  --z-index: 1;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 546px;
-  width: 162px;
-}
-
-.desktop-4 .gallery-C61RwL {
-  --z-index: 2;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 635px;
-  width: 162px;
-}
-
-.desktop-4 .rectangle-3-C61RwL {
-  --z-index: 3;
-  background-color: #ffa700;
-  border-radius: 10px;
-  height: 55px;
-  left: 102px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 457px;
-  width: 173px;
-}
-
-.desktop-4 .socials-C61RwL {
-  --z-index: 4;
-  background-color: transparent;
-  color: #000000;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 457px;
-  width: 162px;
-}
-
-.desktop-4 .portfolio-C61RwL {
-  --z-index: 5;
-  background-color: transparent;
-  color: #ffa700;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 368px;
-  width: 162px;
-}
-
-.desktop-4 .place-C61RwL {
-  --z-index: 6;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 279px;
-  width: 162px;
-}
-
-.desktop-4 .socials-VMr6Om {
-  --z-index: 7;
-  background-color: transparent;
-  color: #ffa700;
-  font-family: 'Syne', Helvetica;
-  font-size: 96px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 386px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 101px;
-  width: auto;
-}
-
-.desktop-4 .ellipse-1-C61RwL {
-  --z-index: 8;
-  background-color: transparent;
-  background-image: url(../img/ellipse-1@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 120px;
-  left: 125px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 748px;
-  width: 120px;
-}
-
-.desktop-4 .ellipse-3-C61RwL {
-  --z-index: 9;
-  background-color: #ffa700;
-  border-radius: 16.5px;
-  height: 33px;
-  left: 334px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 142px;
-  width: 33px;
-}
-
-.desktop-4 .wip-please-come-bac-C61RwL {
-  --z-index: 10;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 334px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 279px;
-  width: 700px;
-}
-/* screen - desktop-3 */
-
-.desktop-3 {
-  background-color: #363636;
-  border: 1px none;
-  margin: 0px;
-  min-height: 3477px;
-  min-width: 1440px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
-  width: 100%;
-}
-
-.desktop-3 .rectangle-1-C61RwL {
-  --z-index: 0;
-  background-color: transparent;
-  border: 10px solid;
-  border-color: #ff7a00;
-  border-radius: 20px;
-  height: 3144px;
-  left: 70px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 250px;
-  width: 1247px;
-}
-
-.desktop-3 .socials-C61RwL {
-  --z-index: 1;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 457px;
-  width: 162px;
-}
-
-.desktop-3 .artwork-C61RwL {
-  --z-index: 2;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 546px;
-  width: 162px;
-}
-
-.desktop-3 .gallery-C61RwL {
-  --z-index: 3;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 635px;
-  width: 162px;
-}
-
-.desktop-3 .rectangle-2-C61RwL {
-  --z-index: 4;
-  background-color: #ffa700;
-  border-radius: 10px;
-  height: 55px;
-  left: 102px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 368px;
-  width: 173px;
-}
-
-.desktop-3 .portfolio-C61RwL {
-  --z-index: 5;
-  background-color: transparent;
-  color: #000000;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 368px;
-  width: 162px;
-}
-
-.desktop-3 .place-C61RwL {
-  --z-index: 6;
-  background-color: transparent;
-  color: #ffa700;
-  cursor: pointer;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 113px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 279px;
-  width: 162px;
-}
-
-.desktop-3 .general-assembly-uiux-boot-camp-C61RwL {
-  --z-index: 7;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 386px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 334px;
-  width: 700px;
-}
-
-.desktop-3 .freelance-work-harbor-website-C61RwL {
-  --z-index: 8;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 386px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1157px;
-  width: 700px;
-}
-
-.desktop-3 .see-for-yourself-C61RwL {
-  --z-index: 9;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 48px;
-  font-style: normal;
-  font-weight: 600;
-  height: auto;
-  left: 407px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2984px;
-  width: 498px;
-}
-
-.desktop-3 .wwwharborband-C61RwL {
-  --z-index: 10;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 600;
-  height: auto;
-  left: 410px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 3047px;
-  width: 466px;
-}
-
-.desktop-3 .portfolio-VMr6Om {
-  --z-index: 11;
-  background-color: transparent;
-  color: #ffa700;
-  font-family: 'Syne', Helvetica;
-  font-size: 96px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 386px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 101px;
-  width: auto;
-}
-
-.desktop-3 .ellipse-1-C61RwL {
-  --z-index: 12;
-  background-color: transparent;
-  background-image: url(../img/ellipse-1@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 120px;
-  left: 125px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 748px;
-  width: 120px;
-}
-
-.desktop-3 .rectangle-21-C61RwL {
-  --z-index: 13;
-  background-color: transparent;
-  background-image: url(../img/rectangle-21.png);
-  background-size: 100% 100%;
-  height: 700px;
-  left: 553px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  opacity: 1;
-  position: absolute;
-  top: 423px;
-  width: 700px;
-}
-
-.desktop-3 .rectangle-22-C61RwL {
-  --z-index: 14;
-  background-color: transparent;
-  background-image: url(../img/rectangle-22.png);
-  background-size: 100% 100%;
-  height: 896px;
-  left: 839px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1231px;
-  width: 414px;
-}
-
-.desktop-3 .rectangle-23-C61RwL {
-  --z-index: 15;
-  background-color: transparent;
-  background-image: url(../img/rectangle-23.png);
-  background-size: 100% 100%;
-  height: 896px;
-  left: 404px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1434px;
-  width: 414px;
-}
-
-.desktop-3 .rectangle-24-C61RwL {
-  --z-index: 16;
-  background-color: transparent;
-  background-image: url(../img/rectangle-24.png);
-  background-size: 100% 100%;
-  height: 896px;
-  left: 839px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  opacity: 1;
-  position: absolute;
-  top: 2206px;
-  width: 414px;
-}
-
-.desktop-3 .ellipse-3-C61RwL {
-  --z-index: 17;
-  background-color: #ffa700;
-  border-radius: 16.5px;
-  height: 33px;
-  left: 334px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 142px;
-  width: 33px;
-}
-
-.desktop-3 .first-figma-design-f-C61RwL {
-  --z-index: 18;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 386px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 423px;
-  width: 150px;
-}
-
-.desktop-3 .first-mobile-friendl-C61RwL {
-  --z-index: 19;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 384px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1231px;
-  width: 455px;
-}
-
-.desktop-3 .shopify-storefront-g-C61RwL {
-  --z-index: 20;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 410px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2494px;
-  width: 399px;
-}
-
-.desktop-3 .all-merchandise-spre-C61RwL {
-  --z-index: 21;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 407px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2574px;
-  width: 399px;
-}
-
-.desktop-3 .custom-ai-generated-C61RwL {
-  --z-index: 22;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 407px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2630px;
-  width: 399px;
-}
-
-.desktop-3 .logo-wheel-at-the-bo-C61RwL {
-  --z-index: 23;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 410px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2414px;
-  width: 399px;
-}
-
-.desktop-3 .x1-top-of-homepage-C61RwL {
-  --z-index: 24;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 839px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2135px;
-  width: 455px;
-}
-
-.desktop-3 .number-C61RwL {
-  --z-index: 25;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 818px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1231px;
-  width: 10px;
-}
-
-.desktop-3 .number-VMr6Om {
-  --z-index: 26;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 839px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2177px;
-  width: 10px;
-}
-
-.desktop-3 .number-mzXdH9 {
-  --z-index: 27;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 375px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1434px;
-  width: 10px;
-}
-
-.desktop-3 .x2-bottom-of-homepage-C61RwL {
-  --z-index: 28;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 407px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 2338px;
-  width: 455px;
-}
-
-.desktop-3 .x3-shopify-storefront-C61RwL {
-  --z-index: 29;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 839px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 3102px;
-  width: 455px;
-}
-
-.desktop-3 .features-graphics-ma-C61RwL {
-  --z-index: 30;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 384px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1263px;
-  width: 393px;
-}
-
-.desktop-3 .contains-embedded-li-C61RwL {
-  --z-index: 31;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 384px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1343px;
-  width: 393px;
-}
 /* screen - desktop-2 */
 
 .desktop-2 {
@@ -2629,6 +2698,7 @@
   --z-index: 4;
   background-color: transparent;
   color: #ffa700;
+  cursor: pointer;
   font-family: 'Syne', Helvetica;
   font-size: 40px;
   font-style: normal;
@@ -2658,21 +2728,8 @@
   width: 173px;
 }
 
-.desktop-2 .rectangle-20-C61RwL {
-  --z-index: 6;
-  background-color: #ffa700;
-  border-radius: 10px;
-  height: 55px;
-  left: 1089px;
-  mix-blend-mode: normal;
-  opacity: 1;
-  position: absolute;
-  top: 885px;
-  width: 173px;
-}
-
 .desktop-2 .place-C61RwL {
-  --z-index: 7;
+  --z-index: 6;
   background-color: transparent;
   color: #000000;
   cursor: pointer;
@@ -2686,14 +2743,20 @@
   line-height: normal;
   mix-blend-mode: normal;
   opacity: 1;
+  pointer-events: auto;
   position: absolute;
   text-align: left;
   top: 279px;
+  transition: all 0.2s ease;
   width: 162px;
 }
 
+.desktop-2 .place-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
 .desktop-2 .place-VMr6Om {
-  --z-index: 8;
+  --z-index: 7;
   background-color: transparent;
   color: #ffa700;
   font-family: 'Syne', Helvetica;
@@ -2713,7 +2776,7 @@
 }
 
 .desktop-2 .ellipse-1-C61RwL {
-  --z-index: 9;
+  --z-index: 8;
   background-color: transparent;
   background-image: url(../img/ellipse-1@2x.png);
   background-size: 100% 100%;
@@ -2728,7 +2791,7 @@
 }
 
 .desktop-2 .rectangle-17-C61RwL {
-  --z-index: 10;
+  --z-index: 9;
   background-color: transparent;
   border: 10px solid;
   border-color: #ff7a00;
@@ -2743,7 +2806,7 @@
 }
 
 .desktop-2 .rectangle-18-C61RwL {
-  --z-index: 11;
+  --z-index: 10;
   background-color: transparent;
   border: 10px solid;
   border-color: #ff7a00;
@@ -2758,7 +2821,7 @@
 }
 
 .desktop-2 .rectangle-19-C61RwL {
-  --z-index: 12;
+  --z-index: 11;
   background-color: transparent;
   border: 10px solid;
   border-color: #ff7a00;
@@ -2773,7 +2836,7 @@
 }
 
 .desktop-2 .your-name-C61RwL {
-  --z-index: 13;
+  --z-index: 12;
   background-color: transparent;
   color: #ffa700;
   font-family: 'Syne', Helvetica;
@@ -2792,8 +2855,8 @@
   width: auto;
 }
 
-.desktop-2 .your-subject-C61RwL {
-  --z-index: 14;
+.desktop-2 .your-email-C61RwL {
+  --z-index: 13;
   background-color: transparent;
   color: #ffa700;
   font-family: 'Syne', Helvetica;
@@ -2813,7 +2876,7 @@
 }
 
 .desktop-2 .your-message-C61RwL {
-  --z-index: 15;
+  --z-index: 14;
   background-color: transparent;
   color: #ffa700;
   font-family: 'Syne', Helvetica;
@@ -2832,8 +2895,33 @@
   width: auto;
 }
 
-.desktop-2 .submit-C61RwL {
-  --z-index: 16;
+.desktop-2 .submit-button-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1089px;
+  opacity: 1;
+  position: absolute;
+  top: 885px;
+  width: 175px;
+}
+
+.desktop-2 .rectangle-20-1RSKJ8 {
+  --z-index: 0;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 173px;
+}
+
+.desktop-2 .submit-1RSKJ8 {
+  --z-index: 1;
   background-color: transparent;
   color: #000000;
   font-family: 'Syne', Helvetica;
@@ -2841,19 +2929,19 @@
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 1119px;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   opacity: 1;
   position: absolute;
   text-align: left;
-  top: 891px;
+  top: 6px;
   width: auto;
 }
 
 .desktop-2 .ellipse-3-C61RwL {
-  --z-index: 17;
+  --z-index: 16;
   background-color: #ffa700;
   border-radius: 16.5px;
   height: 33px;
@@ -2865,62 +2953,571 @@
   width: 33px;
 }
 
-.desktop-2 .place-mzXdH9 {
-  --z-index: 18;
+.desktop-2 .mathieu-C61RwL {
+  --z-index: 17;
   background-color: transparent;
+  border: 0;
   color: #ffffff;
   font-family: 'Syne', Helvetica;
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
-  height: auto;
+  height: 43px;
   left: 613px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 283px;
+  width: 133px;
+}
+
+.desktop-2 .mathieu-C61RwL::placeholder {
+  color: #ffffff99;
+}
+
+.desktop-2 .somebodygmailcom-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  border: 0;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 43px;
+  left: 613px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 374px;
+  width: 368px;
+}
+
+.desktop-2 .somebodygmailcom-C61RwL::placeholder {
+  color: #ffffff99;
+}
+
+.desktop-2 .how-are-you-today-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  border: 0;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 43px;
+  left: 663px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 465px;
+  width: 317px;
+}
+
+.desktop-2 .how-are-you-today-C61RwL::placeholder {
+  color: #ffffff99;
+}
+/* screen - desktop-6 */
+
+.desktop-6 {
+  background-color: #363636;
+  border: 1px none;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-6 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  border: 10px solid;
+  border-color: #ff7a00;
+  border-radius: 20px;
+  height: 673px;
+  left: 70px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 250px;
+  width: 1247px;
+}
+
+.desktop-6 .rectangle-3-C61RwL {
+  --z-index: 1;
+  background-color: #ffa700;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 55px;
+  left: 107px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 635px;
+  width: 173px;
+}
+
+.desktop-6 .gallery-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 635px;
+  width: 162px;
+}
+
+.desktop-6 .artwork-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 162px;
+}
+
+.desktop-6 .socials-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 457px;
+  width: 162px;
+}
+
+.desktop-6 .portfolio-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 162px;
+}
+
+.desktop-6 .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.desktop-6 .place-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
+.desktop-6 .gallery-VMr6Om {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.desktop-6 .ellipse-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 120px;
+  left: 125px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 120px;
+}
+
+.desktop-6 .ellipse-3-C61RwL {
+  --z-index: 9;
+  background-color: #ffa700;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 334px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 142px;
+  width: 33px;
+}
+
+.desktop-6 .wip-please-come-bac-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  width: 700px;
+}
+/* screen - desktop-8 */
+
+.desktop-8 {
+  background-color: #363636;
+  border: 1px none;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-8 .rectangle-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  border: 10px solid;
+  border-color: #ff7a00;
+  border-radius: 20px;
+  height: 719px;
+  left: 70px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 250px;
+  width: 1247px;
+}
+
+.desktop-8 .portfolio-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 162px;
+}
+
+.desktop-8 .socials-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 457px;
+  width: 162px;
+}
+
+.desktop-8 .artwork-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 162px;
+}
+
+.desktop-8 .gallery-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffa700;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 635px;
+  width: 162px;
+}
+
+.desktop-8 .rectangle-2-C61RwL {
+  --z-index: 5;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 102px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 279px;
+  width: 173px;
+}
+
+.desktop-8 .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Syne', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  transition: all 0.2s ease;
+  width: 162px;
+}
+
+.desktop-8 .place-C61RwL:hover {
+  transform: translate(5px, 0);
+}
+
+.desktop-8 .place-VMr6Om {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
+}
+
+.desktop-8 .ellipse-1-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/ellipse-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 120px;
+  left: 125px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 120px;
+}
+
+.desktop-8 .success-i-will-get-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #ffa700;
+  font-family: 'Syne', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
   position: absolute;
   text-align: left;
   top: 283px;
   width: auto;
 }
 
-.desktop-2 .hello-C61RwL {
-  --z-index: 19;
+.desktop-8 .submit-button-C61RwL {
+  --z-index: 10;
   background-color: transparent;
-  color: #ffffff;
+  height: 55px;
+  left: 1089px;
+  opacity: 1;
+  position: absolute;
+  top: 885px;
+  width: 175px;
+}
+
+.desktop-8 .rectangle-20-1RSKJ8 {
+  --z-index: 0;
+  background-color: #ffa700;
+  border-radius: 10px;
+  height: 55px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 173px;
+}
+
+.desktop-8 .submit-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
   font-family: 'Syne', Helvetica;
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 635px;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
-  opacity: 0.5;
+  opacity: 1;
   position: absolute;
   text-align: left;
-  top: 373px;
+  top: 6px;
   width: auto;
 }
 
-.desktop-2 .how-are-you-today-C61RwL {
-  --z-index: 20;
-  background-color: transparent;
-  color: #ffffff;
-  font-family: 'Syne', Helvetica;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 663px;
-  letter-spacing: 0.00px;
-  line-height: normal;
+.desktop-8 .ellipse-3-C61RwL {
+  --z-index: 11;
+  background-color: #ffa700;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 334px;
   mix-blend-mode: normal;
-  opacity: 0.5;
+  opacity: 1;
   position: absolute;
-  text-align: left;
-  top: 465px;
-  width: auto;
+  top: 142px;
+  width: 33px;
 }
